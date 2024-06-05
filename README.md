@@ -88,7 +88,7 @@ Cada contribuidor desempenhou um papel essencial no desenvolvimento e aprimorame
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/franciscalorraynes/AutoParts_Inventory/blob/main/LICENSE). Consulte o arquivo LICENSE para obter mais detalhes.
 
 ## Agradecimentos
 
